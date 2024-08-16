@@ -1,6 +1,6 @@
 {
-    "name": "Muhammad Hamza",
-    "email": "hamza@mhmz.dev",
+    "name": "Shubham Jha",
+    "email": "jhaaji143@gmail.com",
     "subtitles": [
         "Flutter Developer",
         "Technical Writer",
@@ -145,15 +145,15 @@
     "contact": [
         {
             "param": "address",
-            "value": "Attock, Pakistan"
+            "value": "Chandigarh, India"
         },
         {
             "param": "phone",
-            "value": "+92 346 0159889"
+            "value": "+91 6283712624"
         },
         {
             "param": "email",
-            "value": "hamza.6.shakeel@gmail.com"
+            "value": "jhaaji143@gmail.com"
         }
     ]
 }

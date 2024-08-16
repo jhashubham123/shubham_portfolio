@@ -8,10 +8,10 @@ class ProjectUtils {
   ];
 
   static const List<String> icons = [
-    "assets/projects/flutter.png",
-    "assets/projects/quran.png",
-    "assets/projects/medkit.png",
-    "assets/projects/hereiam.png",
+    "assets/projects/cardinsider_log.png",
+    "assets/projects/airmymd_logo.png",
+    "assets/projects/logo 1.png",
+    "assets/projects/chitchat_logo.png",
     "assets/projects/covid.png",
     "assets/projects/messenger.png",
     "assets/projects/flutter.png",
@@ -22,11 +22,11 @@ class ProjectUtils {
   ];
 
   static const List<String> titles = [
-    "Awesome Snackbar Dart Package",
-    "The Holy Qur'an",
-    "MedKit",
-    "Here I Am",
-    "COVID-19",
+    "Cardinsider",
+    "Airmymd",
+    "Amity",
+    "ChitChat",
+    "Gemini Crown",
     "Messenger Chat Head UI",
     "flutter.dev - Flutter Web",
     "Earbender",
@@ -36,11 +36,11 @@ class ProjectUtils {
   ];
 
   static const List<String> description = [
-    "A very unique dart package to uplift the snackbar experience in flutter. Available at pub.dev now!",
-    "Application of Holy book of Muslims, Al-Qur'an. Developed using Flutter. Powered with live RestAPI given in README.md",
-    "A Phramacy app developed using Flutter powered with Firebase as database with Doctor and Patient panels.",
-    "Here I am is an Alert app that Sends alert SMS holding your location (Address and Google Maps) to your loved ones.",
-    "A live trakcer for COVID19 stats across the Globe and my Home country Pakistan. It uses APIs so the data is live.",
+    "Easy to apply creadit cards, Track them, Check offers on them, Lounges availability near airports and railway stations.",
+    "An application developed using flutter to keep health record, Make appointments, Track appointments with doctors.",
+    "Nurses can get jobs nearby their places, Set their availability for jobs, Track their documentations reagarding patients.",
+    "Tried to clone the famous Chat Heads by Whatsapp Messenger using Flutter. Its basically in-app not exactly like the original chat head.",
+    "Gemini crown is an application to keep records of production, it reduces their cost and help to work effectively.",
     "Tried to clone the famous Chat Heads by Facebook Messenger using Flutter. Its basically in-app not exactly like the original chat head.",
     "Flutter Official Site clone using Flutter Web. Try the live site here. For the time being its not responsive fully so there might be responsiveness issues.",
     "A concept of Music App developed using Flutter. Having functionality of playing Audio.",
