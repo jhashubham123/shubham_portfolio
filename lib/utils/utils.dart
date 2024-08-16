@@ -34,21 +34,21 @@ class StaticUtils {
     "https://img.icons8.com/android/480/ffffff/twitter.png",
     "https://img.icons8.com/metro/308/ffffff/linkedin.png",
     "https://img.icons8.com/material-rounded/384/ffffff/github.png",
-    "https://img.icons8.com/ios-filled/500/ffffff/medium-monogram--v1.png"
+    "https://img.icons8.com/material-rounded/384/ffffff/youtube.png",
   ];
 
   static const List<String> socialLinks = [
-    "https://facebook.com/mhmzdev",
-    "https://instagram.com/mhmzdev",
-    "https://twitter.com/mhmzdev",
-    "https://linkedin.com/in/mhmzdev",
-    "https://github.com/mhmzdev",
-    "https://mhmzdev.medium.com"
+    "https://www.facebook.com/shubham.jha.148116",
+    "https://www.instagram.com/shubii7/",
+    "https://x.com/Letstal35366654",
+    "https://www.linkedin.com/in/shubham-jha-5a1236193/",
+    "https://github.com/jhashubham123",
+    "https://www.youtube.com/channel/UCv8jLGX4sLr9nWOFVcHGxXA",
   ];
 
   static const String resume = 'https://aquamarine-christiana-38.tiiny.site/';
 
-  static const String gitHub = 'https://github.com/mhmzdev';
+  static const String gitHub = 'https://github.com/jhashubham123';
 }
 
 class BodyUtils {

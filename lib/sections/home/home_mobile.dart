@@ -18,12 +18,16 @@ class HomeMobile extends StatelessWidget {
         children: [
           Positioned(
             bottom: 0.0,
-            right: -AppDimensions.normalize(25),
-            child: Opacity(
-              opacity: 0.9,
-              child: Image.asset(
-                StaticUtils.blackWhitePhoto,
-                height: AppDimensions.normalize(150),
+            right: 0.0,
+            child: Container(
+              width: size.width,
+              alignment: Alignment.center,
+              child: Opacity(
+                opacity: 0.9,
+                child: Image.asset(
+                  StaticUtils.blackWhitePhoto,
+                  height: AppDimensions.normalize(150),
+                ),
               ),
             ),
           ),

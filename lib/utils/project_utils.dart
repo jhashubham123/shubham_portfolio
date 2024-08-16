@@ -12,13 +12,7 @@ class ProjectUtils {
     "assets/projects/airmymd_logo.png",
     "assets/projects/logo 1.png",
     "assets/projects/chitchat_logo.png",
-    "assets/projects/covid.png",
-    "assets/projects/messenger.png",
-    "assets/projects/flutter.png",
-    "assets/projects/earbender.png",
-    "assets/projects/java.png",
-    "assets/projects/android.png",
-    "assets/services/open_b.png",
+    "assets/projects/gemini_logo.png",
   ];
 
   static const List<String> titles = [
@@ -27,12 +21,6 @@ class ProjectUtils {
     "Amity",
     "ChitChat",
     "Gemini Crown",
-    "Messenger Chat Head UI",
-    "flutter.dev - Flutter Web",
-    "Earbender",
-    "File Transfer Protocol",
-    "My Order",
-    "Hidev",
   ];
 
   static const List<String> description = [
@@ -41,12 +29,6 @@ class ProjectUtils {
     "Nurses can get jobs nearby their places, Set their availability for jobs, Track their documentations reagarding patients.",
     "Tried to clone the famous Chat Heads by Whatsapp Messenger using Flutter. Its basically in-app not exactly like the original chat head.",
     "Gemini crown is an application to keep records of production, it reduces their cost and help to work effectively.",
-    "Tried to clone the famous Chat Heads by Facebook Messenger using Flutter. Its basically in-app not exactly like the original chat head.",
-    "Flutter Official Site clone using Flutter Web. Try the live site here. For the time being its not responsive fully so there might be responsiveness issues.",
-    "A concept of Music App developed using Flutter. Having functionality of playing Audio.",
-    "A simple GUI based Java application that sends file from Client to Server but not the other way around.",
-    "A concept app for self-services at various restaurants now a days. More like a Restaurant Ordering System.",
-    "Its my end semester project. The whole design I developed here is an inspiration from my favortie Flutter Developer Marcin Szałek and his blog Fidev."
   ];
 
   static const List<String> links = [
