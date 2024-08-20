@@ -40,11 +40,10 @@ class ProjectCardState extends State<ProjectCard> {
       hoverColor: Colors.transparent,
       splashColor: Colors.transparent,
       highlightColor: Colors.transparent,
-      onTap: widget.projectLink == null
-          ? () {}
-          : () => openURL(
-                widget.projectLink!,
-              ),
+      onTap: widget.projectLink == null ? () {} : () {},
+      // () => openURL(
+      //       widget.projectLink!,
+      //     ),
       onHover: (isHovering) {
         if (isHovering) {
           setState(() {
